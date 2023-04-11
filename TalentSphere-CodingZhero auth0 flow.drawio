@@ -1,1 +1,157 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:40:16.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="42aMVwNSM-wb_2tLFJ0P" version="20.8.20" type="github"><diagram name="Page-1" id="dJdTtgWFLcji0WIjxV1M">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:45:22.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="apdK2pQWr73jtvFWGD6h" version="20.8.20" type="github">
+  <diagram name="Page-1" id="dJdTtgWFLcji0WIjxV1M">
+    <mxGraphModel dx="1614" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="790" y="210" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-1" target="Mu5V6rFIeby1Iwn6CA1j-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-1" value="A user authenticates on TalentSphere via GitHub" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-2" target="Mu5V6rFIeby1Iwn6CA1j-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-2" value="Get GitHub User-Id" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="230" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-3" target="Mu5V6rFIeby1Iwn6CA1j-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-12" target="Mu5V6rFIeby1Iwn6CA1j-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-3" value="Check if User-Id exists in the Database" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-4" value="Login User onto TalentSphere" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-8" value="If User exists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="365" y="188" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-9" target="Mu5V6rFIeby1Iwn6CA1j-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-9" value="Call auth0 endpoint to get User info using the ID" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="650" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-3" target="Mu5V6rFIeby1Iwn6CA1j-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-12" value="If User does not exist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="105" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-19" target="Mu5V6rFIeby1Iwn6CA1j-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-19" target="Mu5V6rFIeby1Iwn6CA1j-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-19" value="Persist User information on the database" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="810" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-21" value="Login User onto TalentSphere" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="970" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-23" target="Mu5V6rFIeby1Iwn6CA1j-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-23" value="Check if User exists on CodingZhero" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="810" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-25" value="Create User on auth0 using WordPress API" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-27" value="If User does not exist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="920" y="263" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AUTHENTICATION FLOW 1: TalentSphere - CodingZhero Authentication&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="7" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AUTHENTICATION FLOW 2: CodingZhero - TalentSphere Authentication&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="430" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="790" y="630" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-55" target="Mu5V6rFIeby1Iwn6CA1j-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-55" value="A user authenticates on CodingZhero via GitHub" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="69" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-57" target="Mu5V6rFIeby1Iwn6CA1j-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-57" value="Get GitHub User-Id" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="229" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-60" target="Mu5V6rFIeby1Iwn6CA1j-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-66" target="Mu5V6rFIeby1Iwn6CA1j-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-60" value="Check if User-Id exists in the Database" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="369" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-61" value="Login User onto TalentSphere" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="369" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-62" value="If User exists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="364" y="608" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-64" target="Mu5V6rFIeby1Iwn6CA1j-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-64" value="Call auth0 endpoint to get User info using the ID" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="649" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-60" target="Mu5V6rFIeby1Iwn6CA1j-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="540" as="sourcePoint" />
+            <mxPoint x="649" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-66" value="If User does not exist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="479" y="525" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-69" target="Mu5V6rFIeby1Iwn6CA1j-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-69" target="Mu5V6rFIeby1Iwn6CA1j-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-69" value="Persist User information on the database" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="809" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-70" value="Login User onto TalentSphere" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="969" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mu5V6rFIeby1Iwn6CA1j-72" target="Mu5V6rFIeby1Iwn6CA1j-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-72" value="Check if User exists on CodingZhero" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="809" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-73" value="Create User on auth0 using WordPress API" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1089" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu5V6rFIeby1Iwn6CA1j-74" value="If User does not exist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="919" y="683" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MiYjLSM-SCPSyknUF35-1" value="&lt;font color=&quot;#ff1303&quot; style=&quot;font-size: 12px;&quot;&gt;Simultaneously creates a user on CodingZhero so that the same authentication protocol is used for both platforms (TalentSphere and CodingZhero)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="805" y="342" width="370" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
